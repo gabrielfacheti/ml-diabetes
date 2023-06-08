@@ -55,7 +55,7 @@ The feature importance of each model was extracted individually to understand th
 ![image](https://github.com/gfacheti/ML-Diabetes/assets/106284497/a5b8d004-e177-424e-bf1f-ce9c6ff87a32)
 ![image](https://github.com/gfacheti/ML-Diabetes/assets/106284497/84078f79-d097-472e-a99b-f10f52a02b2f)
 
-<p>Finally, I evaluated the feature importances of each model.</p>
+<p>Finally, I evaluated the feature importances of each model. Overall, the results align well with the literature about risk factors for diabetes.</p>
   
 ![image](https://github.com/gfacheti/ML-Diabetes/assets/106284497/9ddd26a2-686d-4662-a872-8219dbe2c702)
 
